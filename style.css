@@ -1,0 +1,54 @@
+                                        
+                             /*Les class additionnelles*/
+.bg-header{
+    background-image: url("https://dz03nossv7tsm.cloudfront.net/media/filer_public_thumbnails/filer_public/8e/5c/8e5c7b5d-7a8f-406e-b72b-3006b3e69395/home-intro.jpg__1400x800_q85_crop-%2C0_subsampling-2.jpg");
+
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.underline:hover{
+    text-decoration: underline 4px;
+    text-decoration-color: blue;
+}
+
+.under-black:hover{
+    text-decoration: underline 2px;
+    text-decoration-color: black;
+}
+
+.text-color:hover{
+    color: red;
+}
+
+.fs-7{
+    font-size: 14px;
+}
+
+.fs-8{
+    font-size: 12px;
+}
+
+.fs-9{
+    font-size: 6px;
+}
+
+.mt-6{
+    margin-top: 80px;
+}
+
+.mt-7{
+    margin-top: 150px;
+}
+
+.mt-10{
+    margin-top: 310px;
+}
+
+.mt-c1{
+    margin-top: 36px;
+}
+
+.bg-black{
+    background-color: black;
+}
